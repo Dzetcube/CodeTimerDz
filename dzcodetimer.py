@@ -1,5 +1,7 @@
 """
 Dz CodeTimer
+v 1.0.0
+
 a 'code run' timer
 
 by Dzikri Fudholi 2020
